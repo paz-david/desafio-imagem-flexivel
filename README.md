@@ -1,2 +1,2 @@
 # desafio-imagem-flexivel
-Desafio do Gustavo guanabara
+Desafio da Imagem responsiva
